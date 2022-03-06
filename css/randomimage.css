@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.image-container {
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    height: 30%;
+    margin: 0 auto;
+    width: 30%;
+}
+
+.img {
+    height: 600px;
+    width: 900px;
+}
+
+.button {
+    align-items: center;
+    background-color: red;
+    display: flex;
+    justify-content:center;
+    border: 1px solid black;
+    border-radius: 1px;
+    height: 20px;
+    margin: 0 auto;
+    width: 8%;
+}
